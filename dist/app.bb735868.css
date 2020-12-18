@@ -1,0 +1,12 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  background-color: white;
+}
+.App img {
+  max-width: 150px;
+}
+
+
+/*# sourceMappingURL=/app.bb735868.css.map */

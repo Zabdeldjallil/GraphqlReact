@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/app.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"app.bb735868.css","sourceRoot":"../client","sourcesContent":[".App {\n  display: flex;\n  justify-content: center;\n  align-content: center;\n  background-color: white;\n}\n.App img {\n  max-width: 150px;\n}\n"]}
